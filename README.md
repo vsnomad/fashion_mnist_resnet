@@ -1,5 +1,6 @@
 # fashion_mnist_resnet
-``
+Fashion mnist object classification using Resnets style architechture in Tensorflow
+```
 Epoch 1/15
 938/938 [==============================] - 203s 214ms/step - loss: 0.5107 - accuracy: 0.8136 - val_loss: 0.4018 - val_accuracy: 0.8607
 Epoch 2/15
@@ -30,4 +31,4 @@ Epoch 14/15
 938/938 [==============================] - 205s 219ms/step - loss: 0.1188 - accuracy: 0.9557 - val_loss: 0.3751 - val_accuracy: 0.8935
 Epoch 15/15
 938/938 [==============================] - 195s 207ms/step - loss: 0.1082 - accuracy: 0.9589 - val_loss: 0.3778 - val_accuracy: 0.8904
-``
+```
